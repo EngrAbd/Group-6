@@ -7,6 +7,6 @@ Adamu Muhammad Muhsin  Nas/ste/20/1004
 Muhammad Nuhu ABdulkadir  Nas/ste/20/1067
 Abubakar Ibrahim Sani  Nas/ste/20/1024
 Abdulhamid Jibrilla  Nas/ste/20/1045
-Muhammad Hassan Abacha  Nas/ste/20/1100
+Muhammad Hussaini Abatcha  Nas/ste/20/1100
 Adamu Adamu Yarima  Nas/ste/20/1093
 Umar Farouq Abubakar  Nas/ste/20/1068
