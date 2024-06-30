@@ -5,6 +5,13 @@ body {
     padding: 0;
     background-color: #f8f9fa;
 }
+button{
+    padding: 10px 40px;
+    margin: 15px 0;
+    border: 0;
+    font-size: 18px;
+    cursor: pointer;
+}
 
 header {
     background-color: #343a40;
