@@ -1,0 +1,137 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #343a40;
+    color: white;
+}
+
+.navbar-brand span {
+    color: #00E8E8;
+}
+
+.nav-link {
+    color: white;
+    margin-right: 1em;
+}
+
+.nav-link:hover {
+    color: #00E8E8;
+}
+
+.btn-site1 {
+    background-color: #00E8E8;
+    color: white;
+}
+
+.btn-site2 {
+    background-color: #17a2b8;
+    color: white;
+}
+
+.section-1 {
+    padding: 2em 0;
+    background-color: white;
+}
+
+.heading-1 {
+    font-size: 2.5em;
+    color: #333;
+}
+
+.heading-2 {
+    font-size: 2em;
+    color: #555;
+}
+
+.para-1 {
+    font-size: 1.2em;
+    color: #666;
+}
+
+.card {
+    margin: 1em 0;
+    border: none;
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+}
+
+.section-2 {
+    background-color: #e9ecef;
+    padding: 2em 0;
+}
+
+.section-3 {
+    padding: 2em 0;
+    background-color: #f8f9fa;
+}
+
+.section-3 h3 {
+    color: #333;
+}
+
+.section-3 p {
+    color: #666;
+}
+
+.section-4 {
+    padding: 2em 0;
+}
+
+.section-4 h2 {
+    color: white;
+}
+
+.section-4 a {
+    color: #00E8E8;
+    text-decoration: none;
+}
+
+.section-4 a:hover {
+    text-decoration: underline;
+}
+
+.section-5 {
+    background-color: #343a40;
+    color: white;
+    padding: 2em 0;
+}
+
+.section-5 h4 {
+    color: #00E8E8;
+}
+
+.section-5 input[type="text"] {
+    margin-right: 1em;
+}
+
+.section-5 .social i {
+    color: white;
+    margin: 0.5em;
+    font-size: 1.5em;
+}
+
+.section-5 .social i:hover {
+    color: #00E8E8;
+}
+
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+
+.footer hr {
+    border-top: 1px solid #00E8E8;
+    width: 50%;
+    margin: 2em auto;
+}
